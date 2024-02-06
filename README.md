@@ -1,2 +1,3 @@
 # Ninrode
-Ferramenta Information Gathering
+Ferramenta Information Gathering Criada em Shell Script
+
